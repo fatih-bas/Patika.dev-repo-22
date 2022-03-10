@@ -1,0 +1,53 @@
+
+.App {
+  text-align: center;
+  
+}
+.colors {
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 30px;
+}
+.text {
+  word-break: break-all;
+}
+.note {
+  text-align: left;
+  position: relative;
+  border-radius: 5px;
+  width: 250px;
+  height: 100%;
+  margin: 5px;
+  padding: 15px;
+}
+.trash {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  color: #2f353d;
+  font-size: 12px;
+  cursor: pointer;
+}
+.check {
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+  font-size: 20px;
+  
+}
+.addbtn {
+  position: absolute;
+  background-color: #AED581 !important;
+  color: white !important;
+  border-radius: 50px !important;
+  width: 100px !important;
+  margin-left: 660px;
+  border: none !important;
+}
