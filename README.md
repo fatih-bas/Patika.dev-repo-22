@@ -1,6 +1,4 @@
-# Patika.dev-repo-16
-### Front-End Patikası Redux Modülü, Bölüm Sonu Uygulaması
-- NotesApp
+## React - Redux  NotesApp
 
 
 ### Features
